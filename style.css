@@ -6,7 +6,7 @@ body {
 }
 
 /* Adds padding to the main about me section */
-#about-me {
+#main {
     padding: 40px 40px 0 40px;
 }
 
@@ -31,5 +31,5 @@ body {
 
 /* Adjusts icon sizes */
 .fas {
-    font-size: .75em;
+    font-size: .70em;
 }
