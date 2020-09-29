@@ -33,3 +33,8 @@ body {
 .fas {
     font-size: .70em;
 }
+
+/* Adds border around portfolio images */
+.portfolio-images {
+    border: 1px solid darkgray;
+}
