@@ -10,6 +10,6 @@ Create a website using the Bootstrap CSS Framework to develop a mobile responsiv
 [https://elliott-andrew.github.io/hw2-responsive-portfolio/](https://elliott-andrew.github.io/hw2-responsive-portfolio/)
 
 ## Final Result
-![Image of homepage](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0002_Screen%20Shot%202020-09-29%20at%207.09.18%20PM.png.jpg)
-![Image of portfolio](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0000_Screen%20Shot%202020-09-29%20at%207.09.05%20PM.png.jpg)
-![Image of Contact](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0001_Screen%20Shot%202020-09-29%20at%207.09.11%20PM.png.jpg)
+![Image of homepage](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0000_Homepage.jpg)
+![Image of portfolio](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0001_Portfolio.jpg)
+![Image of Contact](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0002_Contact.jpg)
