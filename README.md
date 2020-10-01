@@ -1,4 +1,4 @@
-# Homework 02: Responsive Portfolio
+# Responsive Portfolio
 
 ## My Task
 Create a website using the Bootstrap CSS Framework to develop a mobile responsive portfolio. The website should be consistent across each page, use semantic HTML while utilizing the Bootstrap's components and grid system. This website is developed with a mobile-first approach. 
